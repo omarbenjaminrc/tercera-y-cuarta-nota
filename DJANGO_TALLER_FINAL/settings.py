@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'DJANGO_TALLER_FINAL.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE'    : 'django.db.backends.mysql',
-        'NAME'      : 'DJANGO_SEMINARIO”',
+        'NAME'      : 'DJANGO_SEMINARIO',
         'USER'      : 'root',
         'PASSWORD'  : 'Xzsawq21'
     }
