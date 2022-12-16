@@ -9,7 +9,7 @@ estado = [
     ('anulada','ANULADA'),
     ('no asisten','NO ASISTEN')
 ]
-
+# comentario
 
 class Inscripcion(models.Model):
     rut                 = models.CharField(max_length=12)  
